@@ -1,0 +1,6 @@
+repo: 3959d33612ccaadc0d4d707227fbed09ac35e5fe
+node: 201a500dcff47910cdbb0c5837a943665a845d7b
+branch: Orthanc-1.11.2
+latesttag: toa2020012703
+latesttagdistance: 1179
+changessincelatesttag: 1417
